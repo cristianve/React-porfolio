@@ -14,6 +14,6 @@ You will also see any lint errors in the console.
 
 ## Hosting
 
-This website is hosted by IONOS in [https://cristianvega.dev](cristianvega.dev)
+This website is hosted by IONOS in [https://cristianvega.dev](https://cristianvega.dev)
 
 
